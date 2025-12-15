@@ -6,4 +6,4 @@ Everything is in a single `.html` file, including the CSS and JavaScript. You do
 
 
 Scambaiters, feel free to use this on your fake "receive Bitcoin" websites. This program is available under the MIT license, so anyone can use it. You can credit me if you want to, but this is not required and I'm perfectly fine with it if you don't.\
-The text in the bottom-right corner that says `© 2025 Botfighters Inc.` is purely decorational and has nothing to do with the rights to this program. It's only there to help trick scammers into thinking it's real.
+The text in the bottom-right corner that says `© 2025 Botfighters Inc.` is purely decorational and has nothing to do with the rights to this program. It's only there to make it look more convincing to scammers.
