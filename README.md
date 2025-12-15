@@ -1,3 +1,6 @@
+# NOTICE
+**This is an outdated repo.** You can find the new repo here: https://github.com/AnonymousUser98/CoFaCaFo-SB
+
 # Endless CAPTCHA
 An endless CAPTCHA designed to waste scammers' time. Scambaiters can use this on their fake Bitcoin websites. This fake CAPTCHA is similar to most image-based CAPTCHAs, but it never ends. You need to wait 20 seconds between each cycle, so it's sure to waste scammers' time.\
 Everything is in a single `.html` file, including the CSS and JavaScript. You don't need to provide images, but if you want to you can modify the code and make it use locally stored images.
